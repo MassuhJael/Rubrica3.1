@@ -1,0 +1,5 @@
+System.out.print("Ingrese primer nota:"); 
+        
+System.out.print("Ingrese segunda nota:"); 
+       
+System.out.print("Ingrese tercer nota:");
